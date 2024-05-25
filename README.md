@@ -1,2 +1,2 @@
 # QCS-Net
-The minimum working source code for our paper.
+Demo code of QCS-Net for the paper under review.
