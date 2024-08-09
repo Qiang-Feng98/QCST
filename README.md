@@ -1,2 +1,2 @@
 # QCS-Net
-Demo code of QCS-Net for the paper under review.
+Coming soon! Please contact me if you have any questions.
